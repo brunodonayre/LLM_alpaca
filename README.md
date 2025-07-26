@@ -7,12 +7,11 @@ Este repositorio contiene un script en formato Jupyter Notebook para realizar el
 2) alpaca.py: Versión del notebook convertida a script Python ejecutable.
 
 Características principales
-Utiliza un dataset estructurado con campos instruction, input y output.
-
-  Preprocesamiento adaptado para formato text2text compatible con AutoTrain.
-  Entrenamiento supervisado con configuración mínima y reproducible.
-  Integración directa con Hugging Face Hub (sin necesidad de infraestructura local).
-  Pensado para experimentación rápida con LLMs de tipo generativo.
+  1. Utiliza un dataset estructurado con campos instruction, input y output.
+  2. Preprocesamiento adaptado para formato text2text compatible con AutoTrain.
+  3. Entrenamiento supervisado con configuración mínima y reproducible.
+  4. Integración directa con Hugging Face Hub (sin necesidad de infraestructura local).
+  5. Pensado para experimentación rápida con LLMs de tipo generativo.
 
 Modelo objetivo
 Aunque el código permite trabajar con distintos modelos, está optimizado para modelos tipo gpt2, mistral o modelos open-source compatibles con fine-tuning estilo Instruct.
