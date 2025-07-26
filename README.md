@@ -3,8 +3,8 @@
 Este repositorio contiene un script en formato Jupyter Notebook para realizar el fine-tuning de un modelo de lenguaje grande (LLM) utilizando el estilo de entrenamiento de Alpaca mediante la plataforma Hugging Face AutoTrain. Es parte de una propuesta técnica presentada para una posición en el área de inteligencia artificial.
 
 📄 Archivo principal
-11_1_autotrain_alpaca.ipynb: Notebook interactivo para configurar y lanzar el fine-tuning en AutoTrain.
-alpaca.py: Versión del notebook convertida a script Python ejecutable.
+1) 11_1_autotrain_alpaca.ipynb: Notebook interactivo para configurar y lanzar el fine-tuning en AutoTrain.
+2) alpaca.py: Versión del notebook convertida a script Python ejecutable.
 
 Características principales
 Utiliza un dataset estructurado con campos instruction, input y output.
