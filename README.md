@@ -40,10 +40,10 @@ Requisitos
 3. Dataset preformateado (JSON o CSV).
 4. Entorno Python 3.8+ con acceso a Jupyter Notebook.
 
-Aplicación y contexto
+Aplicación y contexto:
 Este script se incluye como parte de una postulación para posiciones relacionadas con desarrollo de IA, fine-tuning de LLMs y NLP aplicado a dominios técnicos y científicos, especialmente en contextos donde se requiere eficiencia, escalabilidad y adaptabilidad en la creación de asistentes conversacionales o sistemas instructivos.
 
- Contacto
+Contacto: 
 Para cualquier consulta técnica o colaboración:
 
 Bruno Alejandro Donayre Donayre
