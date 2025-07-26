@@ -19,30 +19,26 @@ Aunque el código permite trabajar con distintos modelos, está optimizado para 
 📂 Estructura esperada del dataset: 
 El dataset debe tener el siguiente formato por registro JSON o CSV:
 
-json
-Copiar
-Editar
+json: 
+Copiar,
+Editar,
 {
   "instruction": "Describe the benefits of aquaculture AI.",
   "input": "",
   "output": "AI in aquaculture allows better feed optimization and water quality monitoring."
 }
 🚀 ¿Cómo usar?
-Asegúrate de tener acceso a Hugging Face AutoTrain y haber creado un token de acceso.
-
-Prepara tu dataset en el formato Alpaca.
-
-Ejecuta el notebook paso a paso, autenticando con tu token y cargando el dataset.
-
-Configura los parámetros básicos del proyecto (nombre, tipo, modelo base).
-
-Lanza el entrenamiento desde el entorno AutoTrain.
+1. Asegúrate de tener acceso a Hugging Face AutoTrain y haber creado un token de acceso.
+2. Prepara tu dataset en el formato Alpaca.
+3. Ejecuta el notebook paso a paso, autenticando con tu token y cargando el dataset.
+4. Configura los parámetros básicos del proyecto (nombre, tipo, modelo base).
+5. Lanza el entrenamiento desde el entorno AutoTrain.
 
 Requisitos
-Cuenta de Hugging Face.
-Token de acceso válido con permisos de escritura.
-Dataset preformateado (JSON o CSV).
-Entorno Python 3.8+ con acceso a Jupyter Notebook.
+1. Cuenta de Hugging Face.
+2. Token de acceso válido con permisos de escritura.
+3. Dataset preformateado (JSON o CSV).
+4. Entorno Python 3.8+ con acceso a Jupyter Notebook.
 
 Aplicación y contexto
 Este script se incluye como parte de una postulación para posiciones relacionadas con desarrollo de IA, fine-tuning de LLMs y NLP aplicado a dominios técnicos y científicos, especialmente en contextos donde se requiere eficiencia, escalabilidad y adaptabilidad en la creación de asistentes conversacionales o sistemas instructivos.
