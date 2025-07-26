@@ -13,10 +13,10 @@ Características principales
   4. Integración directa con Hugging Face Hub (sin necesidad de infraestructura local).
   5. Pensado para experimentación rápida con LLMs de tipo generativo.
 
-Modelo objetivo
+Modelo objetivo: 
 Aunque el código permite trabajar con distintos modelos, está optimizado para modelos tipo gpt2, mistral o modelos open-source compatibles con fine-tuning estilo Instruct.
 
-📂 Estructura esperada del dataset
+📂 Estructura esperada del dataset: 
 El dataset debe tener el siguiente formato por registro JSON o CSV:
 
 json
