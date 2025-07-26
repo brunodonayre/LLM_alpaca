@@ -4,7 +4,7 @@ Este repositorio contiene un script en formato Jupyter Notebook para realizar el
 
 📄 Archivo principal
 11_1_autotrain_alpaca.ipynb: Notebook interactivo para configurar y lanzar el fine-tuning en AutoTrain.
-11_1_autotrain_alpaca.py: Versión del notebook convertida a script Python ejecutable.
+alpaca.py: Versión del notebook convertida a script Python ejecutable.
 
 Características principales
 Utiliza un dataset estructurado con campos instruction, input y output.
